@@ -14,12 +14,14 @@ import java.util.*;
 public class Solution <T> {
 
     public <T> void printArray(T[] arr) {
+
       for (T a: arr) {
           System.out.println(a);
       }
     }
 
     public static void main(String[] args) {
+
         /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
         //Arr arr = new Arr();
         Solution solution = new Solution<>();
