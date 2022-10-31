@@ -6,7 +6,7 @@ import java.util.regex.*;
 import java.lang.reflect.*;
 
 
-class Singleton{
+class Singleton {
 
     public String str;
 
