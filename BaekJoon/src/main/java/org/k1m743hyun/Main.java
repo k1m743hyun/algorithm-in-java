@@ -1,4 +1,4 @@
-package org.thkim0022;
+package src.main.java.org.k1m743hyun;
 
 public class Main {
 
