@@ -1,4 +1,4 @@
-package src.main.java.org.k1m743hyun.Object\ Oriented\ Programming.Classes;
+package src.main.java.org.k1m743hyun.Object_Oriented_Programming.Classes;
 
 class Person {}
 

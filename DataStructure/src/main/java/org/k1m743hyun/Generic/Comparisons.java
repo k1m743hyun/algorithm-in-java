@@ -1,4 +1,6 @@
-class Main {
+package src.main.java.org.k1m743hyun.Generic;
+
+class Comparisons {
   public static void main(String[] args) {
     String one = "hello world";
     String two = "hello world";
