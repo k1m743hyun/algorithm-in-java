@@ -1,4 +1,4 @@
-package src.main.java.org.example;
+package src.main.java.org.k1m743hyun.code;
 
 public class Main {
 
