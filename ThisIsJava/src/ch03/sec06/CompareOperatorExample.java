@@ -1,4 +1,4 @@
-package ch03.sec06;
+package src.ch03.sec06;
 
 public class CompareOperatorExample {
 

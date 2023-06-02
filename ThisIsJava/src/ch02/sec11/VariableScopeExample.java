@@ -1,4 +1,4 @@
-package ch02.sec11;
+package src.ch02.sec11;
 
 public class VariableScopeExample {
 

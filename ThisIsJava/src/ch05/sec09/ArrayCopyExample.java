@@ -1,4 +1,4 @@
-package ch05.sec09;
+package src.ch05.sec09;
 
 public class ArrayCopyExample {
 

@@ -1,4 +1,4 @@
-package ch03.sec09;
+package src.ch03.sec09;
 
 public class BitShiftExample2 {
 

@@ -1,4 +1,4 @@
-package ch03.sec07;
+package src.ch03.sec07;
 
 public class LogicalOperatorExample {
 

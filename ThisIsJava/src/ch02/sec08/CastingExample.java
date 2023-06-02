@@ -1,4 +1,4 @@
-package ch02.sec08;
+package src.ch02.sec08;
 
 public class CastingExample {
 

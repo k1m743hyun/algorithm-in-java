@@ -1,4 +1,4 @@
-package ch03.sec10;
+package src.ch03.sec10;
 
 public class AssignmentOperatorExample {
 

@@ -1,4 +1,4 @@
-package ch04.sec07;
+package src.ch04.sec07;
 
 public class BreakExample {
 

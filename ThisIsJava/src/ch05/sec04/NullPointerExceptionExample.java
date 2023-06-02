@@ -1,4 +1,4 @@
-package ch05.sec04;
+package src.ch05.sec04;
 
 public class NullPointerExceptionExample {
 

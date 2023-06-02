@@ -1,4 +1,4 @@
-package ch05.sec05;
+package src.ch05.sec05;
 
 public class EqualsExample {
 

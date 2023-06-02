@@ -1,4 +1,4 @@
-package ch04.sec04;
+package src.ch04.sec04;
 
 public class FloatCounterExample {
 

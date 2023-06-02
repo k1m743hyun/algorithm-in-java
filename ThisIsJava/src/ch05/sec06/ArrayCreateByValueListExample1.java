@@ -1,4 +1,4 @@
-package ch05.sec06;
+package src.ch05.sec06;
 
 public class ArrayCreateByValueListExample1 {
 

@@ -1,4 +1,4 @@
-package ch03.sec08;
+package src.ch03.sec08;
 
 public class BitLogicExample {
 

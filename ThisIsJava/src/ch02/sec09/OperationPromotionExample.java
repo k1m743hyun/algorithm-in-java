@@ -1,4 +1,4 @@
-package ch02.sec09;
+package src.ch02.sec09;
 
 public class OperationPromotionExample {
 

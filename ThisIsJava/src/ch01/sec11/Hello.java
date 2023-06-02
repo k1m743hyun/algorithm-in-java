@@ -1,4 +1,4 @@
-package ch01.sec11;
+package src.ch01.sec11;
 /**
   * @author 김태현
   */

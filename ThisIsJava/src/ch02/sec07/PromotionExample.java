@@ -1,4 +1,4 @@
-package ch02.sec07;
+package src.ch02.sec07;
 
 public class PromotionExample {
 

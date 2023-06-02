@@ -1,4 +1,4 @@
-package ch05.sec11;
+package src.ch05.sec11;
 
 public class MainStringArrayArgument {
 

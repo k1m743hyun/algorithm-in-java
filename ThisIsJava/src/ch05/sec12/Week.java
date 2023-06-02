@@ -1,4 +1,4 @@
-package ch05.sec12;
+package src.ch05.sec12;
 
 public enum Week {
     MONDAY,

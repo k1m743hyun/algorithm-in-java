@@ -1,4 +1,4 @@
-package ch03.sec05;
+package src.ch03.sec05;
 
 public class InfinityAndNaNCheckExample {
 

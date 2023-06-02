@@ -1,4 +1,4 @@
-package ch05.sec07;
+package src.ch05.sec07;
 
 public class MultidimensionalArrayByNewExample {
 
