@@ -1,4 +1,4 @@
-package ch07.sec10.exam02;
+package src.ch07.sec10.exam02;
 
 public abstract class Animal {
 
