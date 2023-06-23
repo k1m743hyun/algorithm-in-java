@@ -1,4 +1,4 @@
-package ch08.sec02;
+package src.ch08.sec02;
 
 public interface RemoteControl {
 
