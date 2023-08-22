@@ -18,12 +18,12 @@ public class MyResource implements AutoCloseable {
 
     public String read2() {
 
-        System.out.println("[MyResource(\" + name + \") 읽기]");
+        System.out.println("[MyResource(" + name + ") 읽기]");
         return "abc";
     }
 
     @Override
     public void close() throws Exception {
-        System.out.println("[MyResource(\" + name + \") 닫기]");
+        System.out.println("[MyResource(" + name + ") 닫기]");
     }
 }
