@@ -27,7 +27,6 @@ public class RandomExample {
         }
         System.out.println();
 
-
         // 당첨 여부
         Arrays.sort(selectNumber);
         Arrays.sort(winningNumber);
