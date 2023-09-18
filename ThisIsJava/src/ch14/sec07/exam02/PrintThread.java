@@ -6,7 +6,7 @@ public class PrintThread extends Thread {
 
         try {
             while (true) {
-                System.out.println();
+                System.out.println("실행 중");
                 Thread.sleep(1);
             }
         } catch (InterruptedException e) {
