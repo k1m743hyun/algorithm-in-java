@@ -1,5 +1,6 @@
 package src.ch15.sec04.exam03;
 
+import java.io.FileReader;
 import java.util.Properties;
 
 public class PropertiesExample {
@@ -10,7 +11,7 @@ public class PropertiesExample {
         Properties properties = new Properties();
 
         // PropertiesExample.class와 동일한 ClassPath에 있는 databases.properties 파일 로드
-        properties.load(PropertiesExample.class.getResourceAsStream("database.properties"));
+        properties.load(new FileReader("src/ch15/sec04/exam03/database.properties"));
 
         // 주어진 키에 대한 값 읽기
         String driver = properties.getProperty("driver");
