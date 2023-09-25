@@ -37,7 +37,7 @@ public class Product {
             .append("pno: " + this.pno + ", ")
             .append("name: " + this.name + ", ")
             .append("company: " + this.company + ", ")
-            .append("price: " + this.price + ", ")
+            .append("price: " + this.price)
             .append("}")
             .toString();
     }
