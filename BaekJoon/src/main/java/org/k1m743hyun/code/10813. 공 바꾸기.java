@@ -3,7 +3,7 @@ package src.main.java.org.k1m743hyun.code;
 import java.io.IOException;
 import java.util.Scanner;
 
-class Main {
+public class Main {
 
     public static void main(String[] args) throws IOException {
 
