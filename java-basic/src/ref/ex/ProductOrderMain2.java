@@ -8,14 +8,9 @@ public class ProductOrderMain2 {
         ProductOrder[] productOrders = new ProductOrder[3];
 
         // createOrder()를 여러번 사용해서 상품 주문 정보들을 생성하고 배열에 저장
-        ProductOrder tofu = createOrder("두부", 2000, 2);
-        productOrders[0] = tofu;
-
-        ProductOrder kimchi = createOrder("김치", 5000, 1);
-        productOrders[1] = kimchi;
-
-        ProductOrder cola = createOrder("콜라", 1500, 2);
-        productOrders[2] = cola;
+        productOrders[0] = createOrder("두부", 2000, 2);
+        productOrders[1] = createOrder("김치", 5000, 1);
+        productOrders[2] = createOrder("콜라", 1500, 2);
 
         // printOrders()를 사용해서 상품 주문 정보 출력
         printOrders(productOrders);
